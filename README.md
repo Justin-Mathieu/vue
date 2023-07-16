@@ -22,6 +22,12 @@ Run these commands:
 
 [Code sandbox](https://jqpn3f-5173.csb.app/)
 
+### Testing
+
+`npm install --save-dev jest`
+
+`npm install --save-dev @testing-library/vue`
+
 ### Links and Resources
 
 [Vue](https://vuejs.org/guide/introduction.html)
